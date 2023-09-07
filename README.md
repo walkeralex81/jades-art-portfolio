@@ -1,4 +1,4 @@
 # jades-art-portfolio
-basic art web portfolio 
+basic art web portfolio
 need more content
 
